@@ -1,0 +1,1 @@
+export { cnotify } from './config';
