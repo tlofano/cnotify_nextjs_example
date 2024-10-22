@@ -8,6 +8,7 @@ const firebaseConfig = {
   storageBucket: 'cnotify-nextjs-example.appspot.com',
   messagingSenderId: '973947531891',
   appId: '1:973947531891:web:72ebb259823dbd8222f006',
+  measurementId: 'G-4XE0MTS39Y',
 };
 
 // Initialize CNotify SDK

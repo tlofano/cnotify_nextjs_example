@@ -4,7 +4,7 @@ This repository provides a simple example of how to integrate **CNotify** into a
 
 - [Home](https://cnotify.me)
 - [Platform](https://app.cnotify.me)
-- [Docs](https://docs.cnotify.me)
+- [Docs](https://docs.cnotify.me) (See React section)
 
 ## Overview
 
